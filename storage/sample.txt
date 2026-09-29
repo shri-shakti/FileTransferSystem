@@ -1,0 +1,2 @@
+Hello! This is a test file stored on the C++ File Transfer Server.
+It proves that directory listing and file storage are working!
